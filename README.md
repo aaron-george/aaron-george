@@ -1,4 +1,4 @@
- *I'm Aaron and I am passionately curious*
+ *Hey, I'm Aaron and I am passionately curious*
  
 Senior Undergrad At National Institute of Technology Karnataka, Surathkal. Data Scientist with history of working on projects including Machine Learning, Web Scaping, Predictive Modelling, Computer Vision and NLP . A knack to unravel the unknown and a keen desire to learn are my key strengths. Intrigued by data and data-driven decisions. Reach out to mefor any projects or collaboration. 
 
