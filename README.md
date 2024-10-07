@@ -1,6 +1,23 @@
- ***Hey, I'm Aaron and I am passionately curious***
- 
-Senior Undergrad At National Institute of Technology Karnataka, Surathkal. Data Scientist with history of working on projects including Machine Learning, Web Scaping, Predictive Modelling, Computer Vision and NLP . A knack to unravel the unknown and a keen desire to learn are my key strengths. Intrigued by data and data-driven decisions. Reach out to mefor any projects or collaboration. 
+***Hey! I'm Aaron***
+
+Exploring alternatives through my B-School journey at XLRI, with interests in investment banking, startups, and private equity.
+
+I have ~2 years of consulting experience in commercial analytics space in ZS Associates driving strategic business decisions for a Fortune 500 Pharma company. My areas of expertise include marketing mix, statistical modelling, business insights and analytics. Intrigued by data and data-driven decisions. A knack to unravel the unknown and a desire to learn are my key strengths.
+
+Skillsets:
+- Business Analysis 
+- Regression Modelling
+- Statistical Analysis
+- R, Python
+- SQL
+- MS Excel & Office Suite
+
+Who I've worked with:
+- IndigoEdge
+- ZS Associates
+- Tenovia
+- Aapnik
+- The Sports Scientist
 
 ***Inquisitive to all things Tech, Business and Fun***
 
@@ -15,12 +32,4 @@ Senior Undergrad At National Institute of Technology Karnataka, Surathkal. Data 
 
 
 
-- 🔭 I’m currently working on Machine Learning & Data Science Projects 
-- 🌱 I’m currently learning Docker & AWS
-- 👯 I’m looking to collaborate on anything....literally anything
-- 🤔 I’m looking for help with Competitive Programming
-- 💬 Ask me about Data Science, ML and Python
-- 📫 How to reach me:  `aaron4george@gmail.com`
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I watch atleast 4 movies every week
 
