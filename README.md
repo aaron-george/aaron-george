@@ -19,7 +19,7 @@ Who I've worked with:
 - Aapnik
 - The Sports Scientist
 
-***Inquisitive to all things Tech, Business and Fun***
+***Inquisitive to all things Tech & Business***
 
 <p align="center">
   <a href="aaron-george.github.io/">Portfolio</a> •
